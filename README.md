@@ -33,7 +33,6 @@ To run the computation, please do the following
 * Run ```pip install -r requirements.txt``` to install all necessary dependencies
 * Download the 0.6.0 version of UrMoAC from [UrMoAC-0.6.0.zip](https://github.com/DLR-VF/UrMoAC/releases/download/v0.6.0/UrMoAC-0.6.0.zip). Extract the contents into **&lt;NaMIx&gt;**/demo/tools so that the jar file is located directly within this folder.
 * Download GTFS data (e.g. from [MVG](https://www.mvg.de/services/fahrgastservice/fahrplandaten.html)). Extract the contents so that can be found in **&lt;NaMIx&gt;**/demo/input/GTFS.
-* Depack the file input.zip located in demo
 * Start the jupyter notebook
   * You should have a command line open in **&lt;NaMIx&gt;**
   * Run ```python -m jupyter notebook```
