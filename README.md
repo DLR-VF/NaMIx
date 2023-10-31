@@ -46,7 +46,7 @@ NaMIx was developed and implemented by [Serra Yosmaoglu](https://github.com/serr
 
 ## ChangeLog
 
-**NaMIx 0.2.0** ()
+**NaMIx 0.2.0** (31.10.2023)
 * initial version
 
 ## License
