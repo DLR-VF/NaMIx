@@ -9,7 +9,7 @@ In order to run the library on a windows computer you have to have a recent Pyth
 (we recommend using Python `Anaconda <https://www.anaconda.com/products/individual>`_
 or `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_, which is a lightweight version of the conda environment).
 
-Please also ensure that a `Java Development Kit <https://java.com/de/>`_ (preferably version 1.8) is installed
+Please also ensure that a `Java Development Kit <https://adoptium.net/>`_ (preferably version 1.8) is installed
 and that the folder containing the java.exe file is set in your path environment variable.
 If you would prefer to set the JAVA_HOME (or JRE_HOME) variable via the command line:
 
